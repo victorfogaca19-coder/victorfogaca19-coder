@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou o Victor 👋
 
-<!--
-**victorfogaca19-coder/victorfogaca19-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na Universidade Presbiteriana Mackenzie (4º semestre)
 
-Here are some ideas to get you started:
+🔄 Migrando para a área de Tecnologia, unindo experiência prática com novos 
+conhecimentos técnicos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Atualmente Jovem Aprendiz no Mercado Livre, com experiência em automação de 
+planilhas e processos de dados
+
+🎯 Buscando estágio em TI — desenvolvimento, dados ou sistemas
+
+---
+
+## 🛠️ Tecnologias que já estudei
+
+`HTML` `CSS` `Java` `JavaScript` `Python` `Banco de Dados`
+
+---
+
+## 📌 Projetos em destaque
+
+### 🌱 [NutriVida](https://github.com/victorfogaca19-coder/NutriVida)
+Sistema fullstack para gestão de fazendas urbanas — Node.js, Express, MongoDB.
+Desenvolvimento completo: front-end, back-end e banco de dados.
+🔗 [Demo online](https://nutrivida-idhm.onrender.com)
+
+### 🏠 [Clone do Airbnb](https://github.com/victorfogaca19-coder/clone-airbnb-java)
+Sistema de aluguel de propriedades em Java, com herança, polimorfismo e 
+classes abstratas.
+
+### 💼 [Site Clínica Wulkan](https://github.com/victorfogaca19-coder/clinica-estetica-wulkan)
+Site institucional desenvolvido como projeto freelance para clínica de 
+dermatologia e estética.
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn] (www.linkedin.com/in/victor-medeiros-fogaça)
